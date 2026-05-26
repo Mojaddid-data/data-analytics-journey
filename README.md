@@ -1,2 +1,2 @@
-# data-analytics-journey
-A collection of my data analytics learning projects, practice files, and progress from June 2026.
+# Data Analytics Journey
+My Data Analytics Learning Journey — Starting June 2026. I will upload my projects, practices, and learning progress here.
